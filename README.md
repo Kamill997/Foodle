@@ -27,7 +27,7 @@
         <strong>Web Programming and Database</strong> course.
     </p>
     <p>
-        After completing my studies, I am starting to work on the following project to 
+        After completing my studies, I started to work again on the following project to 
         improve it from all points of view, both <strong>Frontend</strong> and <strong>Backend</strong>.
     </p>
     <h3>APIs Included in the Application</h3>
