@@ -30,8 +30,7 @@
         After finishing my studies,I'm starting to work again on the following project to 
         improve it from all points of view, both <strong>Frontend</strong> and <strong>Backend</strong>.
     </p>
-    <h3>APIs Included in the Application</h3>
+    <h3>External APIs Included in the Application</h3>
     <ul>
-        <li>API to get a list of foods.</li>
         <li>API to make payments, more precisely with <strong>Stripe</strong>.</li>
     </ul>
